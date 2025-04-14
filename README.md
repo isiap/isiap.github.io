@@ -3,11 +3,7 @@ html {
   font-family:
     "Open Sans", sans-serif; /* this should be the rest of the output you got from Google Fonts */
 }
-<style>
-body {
-  background-color: purple;
-}
-</style>
+<body style="background-color:powderblue;">
 
 
 ###### <h1> Welcome to Dr. Siap's Homepage! 
