@@ -5,7 +5,7 @@ html {
 }
 <style>
 body {
-  background-color: #E6E6FA;
+  background-color: purple;
 }
 </style>
 
